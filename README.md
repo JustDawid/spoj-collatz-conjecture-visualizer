@@ -1,4 +1,4 @@
-# Problem Collatza (PTCLTZ) - Wizualizacja 📉
+# Problem Collatza (PTCLTZ) - Wizualizacja
 
 ## Opis
 Prosty skrypt w Pythonie demonstrujący działanie **Hipotezy Collatza** (znanej również jako problem $3x + 1$).
